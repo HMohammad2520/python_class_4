@@ -7,7 +7,6 @@ set()
 # 2 Bakhsh
 dict()
 
-
 # list
 # 1. Tartib Dare
 # 2. Taghir Pazire
@@ -27,15 +26,14 @@ print(students[0])
 print(students[-1])
 print(students[1:-1])
 print(students[1:])
+print(students[-3:])
 '''
-
 
 # tuble
 # 1. Tartib Darad
 # 2. Taghir Pazir nist
 # 3. Tekrari Darad
 students = ('Mohammad', 'Taha Ardavan')
-
 
 # set
 # 1. Tartib Nadarad
@@ -57,11 +55,11 @@ user = {
     'students': ['Taha Ardavan', 'Atiye Azari'],
     'books': 26,
 }
-print(f'{user['first_name']} {user['last_name']}')
+#print(f'{user['first_name']} {user['last_name']}')
 
 books = {
     0: 'Gift from sky',
     1: 'Math',
     20: 'Physic',
 }
-print(books[20])
+#print(books[20])

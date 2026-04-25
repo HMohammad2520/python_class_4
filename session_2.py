@@ -11,19 +11,18 @@ bool()
 ## NamGozari
 # 1. Ba addad shoro nemishan
 # 2. Bara kalamat az _ estefade shvad
-# 3. az in charecter ha nemitavan estefade kard !@#$%^&*()=+.,/|\
+# 3. az in charecter ha nemitavan estefade kard !@#$%^&*()=+.,/|\-[]
 # 4. Case Sensetive
 
 ## Pep 8
 # Varible name --> snake_case
 # Ye zabon bashe
 
-total_student_numbers = 10
+total_students_number = 10
 pi = 3.14
 pi = 3.14159265359
 debt = -10_000_000_000
 is_currect = True
-
 
 ## String
 str()
